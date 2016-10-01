@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 #
-# TripChain-Core documentation build configuration file, created by
+# TripChain-Docs documentation build configuration file, created by
 # sphinx-quickstart on Thu Aug 18 21:48:57 2016.
 #
 # This file is execfile()d with the current directory set to its
@@ -133,7 +133,7 @@ html_theme = 'sphinx_rtd_theme'
 # The name for this set of Sphinx documents.
 # "<project> v<release> documentation" by default.
 #
-# html_title = u'TripChain-Core v0.0.1'
+# html_title = u'TripChain-Docs v0.0.1'
 
 # A shorter title for the navigation bar.  Default is the same as html_title.
 #
