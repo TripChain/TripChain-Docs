@@ -1,5 +1,5 @@
-TripChain-Core Documentation
-============================
+TripChain Documentation
+=======================
 
 This documentation represents the core files of the TripChain framework. The core consists of the components that make up a node within the TripCahin network, including blockchain transaction records and the disaggregated trip generation database.
 
@@ -120,4 +120,4 @@ The code is open source, and `available on github`_.
 
    rtfd
 
-.. _available on github: https://github.com/TripChain/tripchain-core
+.. _available on github: https://github.com/TripChain
