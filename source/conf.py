@@ -48,7 +48,7 @@ source_suffix = ['.rst', '.md']
 master_doc = 'index'
 
 # General information about the project.
-project = u'TripChain-Core'
+project = u'TripChain'
 copyright = u'2016, TripChain.Org'
 author = u'TripChain.Org'
 
@@ -232,7 +232,7 @@ html_static_path = ['_static']
 # html_search_scorer = 'scorer.js'
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'TripChain-Coredoc'
+htmlhelp_basename = 'TripChain-Docs'
 
 # -- Options for LaTeX output ---------------------------------------------
 
@@ -258,7 +258,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, 'TripChain-Core.tex', u'TripChain-Core Documentation',
+    (master_doc, 'TripChain-Docs.tex', u'TripChain Documentation',
      u'TripChain.Org', 'manual'),
 ]
 
@@ -300,7 +300,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'tripchain-core', u'TripChain-Core Documentation',
+    (master_doc, 'TripChain-Docs', u'TripChain Documentation',
      [author], 1)
 ]
 
@@ -315,8 +315,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    (master_doc, 'TripChain-Core', u'TripChain-Core Documentation',
-     author, 'TripChain-Core', 'One line description of project.',
+    (master_doc, 'TripChain-Docs', u'TripChain Documentation',
+     author, 'TripChain', 'A Peer-to-Peer Trip Generation Database',
      'Miscellaneous'),
 ]
 
