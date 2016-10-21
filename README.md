@@ -1,2 +1,0 @@
-# TripChain-Docs
-TripChain Documentation
