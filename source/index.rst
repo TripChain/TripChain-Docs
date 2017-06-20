@@ -1,9 +1,9 @@
 TripChain Documentation
 =======================
 
-This documentation represents the core files of the TripChain framework. The core consists of the components that make up a node within the TripCahin network, including blockchain transaction records and the disaggregated trip generation database.
+This documentation represents the core files of the TripChain framework, herein refered to as TripChain-Core. TripChain-Core consists of the blockchain, database, and API components that make up a node within the TripChain network.
 
-At this time, the TripChain network and database should be considered a TestNet as it is currently undergoing active development and is not yet finalized. Please use associated data and services with caution as they are not yet production ready. This project will remain proof-of-concept until further notice.
+TripChain-Core is currently in 'alpha', meaning that it is under active development without full features at this time. Please use associated data and services with caution as they are not yet production ready. This project will remain proof-of-concept until further notice.
 
 The main documentation for the site is organized into the following sections:
 
