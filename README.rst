@@ -1,2 +1,4 @@
-# TripChain-Docs
+TripChain Documentation
+=======================
+
 TripChain Documentation
